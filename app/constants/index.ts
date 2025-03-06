@@ -1,0 +1,1 @@
+export const LEAD_STATUS = ["New", "Engaged", "Proposal Sent", "Closed-Won", "Closed-Lost"]
